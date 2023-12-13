@@ -6,5 +6,6 @@ This is an end-to-end data engineering project where we create an ELT batch and 
 ### Tech/Data Stack
 1. Apache Airflow
 2. Apache Kafka
-3. Google Cloud Storage
-4. Google BigQuery
+3. Apache Spark
+5. Google Cloud Storage
+6. Google BigQuery
